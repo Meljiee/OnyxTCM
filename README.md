@@ -9,7 +9,7 @@
   - [ADM-0004: Admin testing - Toggle Maintenance Mode](<./Admin Testing/ADM-0004_admin_testing_toggle_maintenance_mode.md>)
   - [ADM-0005: Admin testing - Configure Queue Rules](<./Admin Testing/ADM-0005_admin_testing_configure_queue_rules.md>)
 - [Security Testing](<./Security Testing/>)
-  - [SEC-0001: Security testing - Student Login](<./Security Testing/SEC-0001_security_testing_student_login.md>)
+  - [SEC-0001: Security testing - Student and Admin Login](<./Security Testing/SEC-0001_security_testing_student_login.md>)
   - [SEC-0002: Security testing - Student Sign Up](<./Security Testing/SEC-0002_security_testing_student_sign_up.md>)
   - [SEC-0003: Security testing - Access Security Settings](<./Security Testing/SEC-0003_security_testing_access_security_settings.md>)
   - [SEC-0004: Security testing - Admin Route Protection](<./Security Testing/SEC-0004_security_testing_admin_route_protection.md>)
