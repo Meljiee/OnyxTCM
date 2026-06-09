@@ -10,7 +10,7 @@ Verify that triggering a logout request opens a confirmation mechanism, complete
 
 ---
 
-## Scenario 1: Student / Standard User Logout
+**Scenario 1: Student / Standard User Logout**
 
 | #   | Step                                                                              | Expected Behavior                                                                                                                                     |
 | --- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Verify that triggering a logout request opens a confirmation mechanism, complete
 
 ---
 
-## Scenario 2: Admin / Staff Session Termination
+**Scenario 2: Admin / Staff Session Termination**
 
 | #   | Step                                                                                                                                  | Expected Behavior                                                                                                                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
