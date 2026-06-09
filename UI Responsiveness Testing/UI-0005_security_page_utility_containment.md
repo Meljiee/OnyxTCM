@@ -1,4 +1,4 @@
-# ONYX-UI-0005: Security Page - Interaction Control Containment
+# UI-0005: Security Page - Interaction Control Containment
 
 ## Summary
 
