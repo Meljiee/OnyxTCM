@@ -10,7 +10,7 @@ Verify that users can successfully log in using the unified Queuely single log-i
 
 ---
 
-## Scenario 1: Standard Student Login (Valid Credentials)
+**Scenario 1: Standard Student Login (Valid Credentials)**
 
 | #   | Step                                                                      | Expected Behavior                                                                                                                              |
 | --- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ Verify that users can successfully log in using the unified Queuely single log-i
 
 ---
 
-## Scenario 2: Standard Student Login (Invalid Password)
+**Scenario 2: Standard Student Login (Invalid Password)**
 
 | #   | Step                                                                    | Expected Behavior                                                                                                                                               |
 | --- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ Verify that users can successfully log in using the unified Queuely single log-i
 
 ---
 
-## Scenario 3: Admin / Staff Login (Valid Credentials)
+**Scenario 3: Admin / Staff Login (Valid Credentials)**
 
 | #   | Step                                                                        | Expected Behavior                                                                                                                             |
 | --- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Verify that users can successfully log in using the unified Queuely single log-i
 
 ---
 
-## Scenario 4: Admin / Staff Login (Invalid Password)
+**Scenario 4: Admin / Staff Login (Invalid Password)**
 
 | #   | Step                                                                   | Expected Behavior                                                                                                                                                  |
 | --- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

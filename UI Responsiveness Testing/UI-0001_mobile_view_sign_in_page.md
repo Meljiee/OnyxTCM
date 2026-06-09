@@ -1,4 +1,4 @@
-# ONYX-UI-0001: Mobile View - Sign In Page Layout Validation
+# UI-0001: Mobile View - Sign In Page Layout Validation
 
 ## Summary
 

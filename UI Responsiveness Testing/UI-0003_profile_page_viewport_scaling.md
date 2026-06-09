@@ -1,4 +1,4 @@
-# ONYX-UI-0003: Profile Page - Structural Grid Responsiveness
+# UI-0003: Profile Page - Structural Grid Responsiveness
 
 ## Summary
 

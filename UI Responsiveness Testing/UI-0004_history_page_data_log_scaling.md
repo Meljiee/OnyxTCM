@@ -1,4 +1,4 @@
-# ONYX-UI-0004: History Page - Responsive Log Lifecycle Scaling
+# UI-0004: History Page - Responsive Log Lifecycle Scaling
 
 ## Summary
 

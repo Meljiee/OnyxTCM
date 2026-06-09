@@ -1,4 +1,4 @@
-# ONYX-UI-0002: Mobile View - User Dashboard Grid Compaction
+# UI-0002: Mobile View - User Dashboard Grid Compaction
 
 ## Summary
 
